@@ -1,11 +1,9 @@
 # Payment Tracking Production Project
 
-Готовый production-вариант под ноутбук `Automating-payment-tracking`, уже с вашими реальными файлами.
+Готовый production-вариант под ноутбук `Automating-payment-tracking`.
 
 ## Что изменено
-- входные файлы переименованы в:
-  - `data/input/arenda.xlsx`
-  - `data/input/print.xlsx`
+
 - парсер `print.xlsx` адаптирован под реальную выписку Сбера, где операции идут блоками по страницам, а не обычной таблицей
 - CLI и API по умолчанию используют именно эти имена
 
