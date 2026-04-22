@@ -1,6 +1,6 @@
 # Payment Tracking Production Project
 
-Готовый production-вариант под ноутбук `Automating-payment-tracking`, уже с вашими реальными файлами.
+Готовый production-вариант под ноутбук `Automating-payment-tracking`, уже с реальными файлами.
 
 ## Что изменено
 - входные файлы переименованы в:
