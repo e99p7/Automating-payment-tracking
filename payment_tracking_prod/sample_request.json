@@ -1,7 +1,0 @@
-{
-  "arenda_path": "data/input/arenda.xlsx",
-  "bank_path": "data/input/print.xlsx",
-  "report_path": "data/output/report.xlsx",
-  "today": "2025-06-12",
-  "grace_days": 3
-}
